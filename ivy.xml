@@ -1,0 +1,15 @@
+<ivy-module version="1.0">
+  <info organisation="im.matthias"
+        module="Studium"
+        status="integration"
+        />
+	<dependencies>
+        <dependency org="de.tu-darmstadt.mathematik" name="e835" rev="1.0" />
+        <dependency org="de.tu-darmstadt.mathematik" name="e179" rev="1.0" />
+        <dependency org="de.tu-darmstadt.mathematik" name="e189" rev="1.0" />
+        <dependency org="de.tu-darmstadt.mathematik" name="e833" rev="1.0" />
+	</dependencies>
+	
+    
+    
+</ivy-module>

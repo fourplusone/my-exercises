@@ -1,0 +1,15 @@
+<ivysettings>
+    <settings defaultResolver="default"/>
+    
+    <resolvers>
+    <packager name="default"
+         buildRoot="${user.home}/.ivy2/packager/build"
+         resourceCache="${user.home}/.ivy2/packager/cache"
+         restricted="false">
+        
+        <ivy pattern="http://prp0.prp.physik.tu-darmstadt.de/~fourgoo/repo/[organisation].[module].xml"/>
+        <artifact pattern="http://prp0.prp.physik.tu-darmstadt.de/~fourgoo/repo/[organisation].[module].pxml"/>
+	</packager>
+
+    </resolvers>
+</ivysettings>
