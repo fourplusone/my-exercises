@@ -4,10 +4,10 @@
         status="integration"
         />
 	<dependencies>
-        <dependency org="de.tu-darmstadt.mathematik" name="e835" rev="1.0" />
-        <dependency org="de.tu-darmstadt.mathematik" name="e179" rev="1.0" />
-        <dependency org="de.tu-darmstadt.mathematik" name="e189" rev="1.0" />
-        <dependency org="de.tu-darmstadt.mathematik" name="e833" rev="1.0" />
+        <dependency org="de.tu-darmstadt.mathematik" name="e835" rev="latest.release" />
+        <dependency org="de.tu-darmstadt.mathematik" name="e179" rev="latest.release" />
+        <dependency org="de.tu-darmstadt.mathematik" name="e189" rev="latest.release" />
+        <dependency org="de.tu-darmstadt.mathematik" name="e833" rev="latest.release" />
 	</dependencies>
 	
     
