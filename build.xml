@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="Studium" default="init" xmlns:ivy="antlib:org.apache.ivy.ant">
     
+    <property file="${basedir}/my.properties"/>
     <property file="${basedir}/common.properties"/>
     
     <target name="init" depends="fetch-dependencies">
